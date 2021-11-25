@@ -6,6 +6,7 @@ This project contains the data science parts of the application
 mkdir -p ~/loans
 cd ~/loans
 git clone https://github.com/erwangranger/loan-application-ds.git
+cd ~/loans/loan-application-ds/
 git checkout sprint01
 ```
 
